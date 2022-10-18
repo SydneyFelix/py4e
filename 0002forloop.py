@@ -1,0 +1,5 @@
+x = input('input:  ')
+if x.isalpha():print(x," is a letter")
+elif: x.isnum():print(x," is a number")
+elif: x.isalnum():print(x," is a alphanum")
+else:print(x," is a special character")

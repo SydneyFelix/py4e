@@ -1,0 +1,7 @@
+kapagka sa loob ng ( ) o { } o [ ] 
+kailang dapat lagyan ng ' ' ? kailan hindi dapat ?
+
+dapat may ' ' :
+kapag file name ang nasa loob   like: open('myhelp.txt')
+(kapag ka hindi nagkakulay yung file name, mali yon, nakalimutan mo yung ' ' )
+tandaan mo kapag hindi makulay ang program mo, kapag pale yan, maraming mali yan.
